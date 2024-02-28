@@ -25,7 +25,7 @@ class _SplashState extends State<Splash> {
       backgroundColor: Colors.white,
       body: Center(
           child: Image.asset(
-        'image/leaf1.png',
+        'image/img.png',
         width: 100,
         height: 100,
       )),
